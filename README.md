@@ -1,4 +1,6 @@
 # Among Us Unity Source Code Public
+<img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/cc674b41-95d4-49d8-9423-e33b5a32ad69" />
+
 ## ENG:
 * Hi! 
 This is the source code for the game Among Us decompiled using Asset Ripper  Why did I upload the source code if the buttons dont work? Actually the buttons do work and you can play and modify the game How did I manage to decompile it so perfectly? No I didnt use Asset Ripper Premium I have dev builds of Among Us and theyre built on Mono
