@@ -1,4 +1,1 @@
-19.04.2026 19:21 GitHub news.txt
-Im working on Submerged and the font 
-Ill try to implement color changes soon 
-but I dont think itll work out
+19.04.2026 19:21 GitHub news.txt \n Im working on Submerged \n and the font \n Ill try to implement color changes soon but I dont think itll work out
