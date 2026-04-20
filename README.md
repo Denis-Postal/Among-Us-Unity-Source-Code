@@ -11,4 +11,5 @@ This is the source code for the game Among Us decompiled using Asset Ripper  Why
 
 <img width="1300" height="500" alt="image" src="https://github.com/user-attachments/assets/6ed966ff-5f8c-429f-9094-a27b72a4b989" />
 
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/cf31edac-f6d3-4f65-89b7-8c0912adae26" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/33f20e02-a366-4d38-9dd0-2acf6c821044" />
+
