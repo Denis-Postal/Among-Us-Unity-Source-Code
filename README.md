@@ -1,5 +1,5 @@
 # Among Us Unity Source Code Public
-<img width="1400" height="500" alt="image" src="https://github.com/user-attachments/assets/946de0c9-6904-453a-911c-d25f5ce8e53f" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/643a0fae-85ba-49df-8734-cb84c7634eff" />
 
 
 ## ENG:
