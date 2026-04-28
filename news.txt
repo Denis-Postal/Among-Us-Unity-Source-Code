@@ -1,1 +1,1 @@
-19.04.2026 19:21 GitHub news.txt \n Im working on <color=#00FFFF>Submerged</color> \n and the font \n Ill try to implement color changes soon \n <color=#FF0000>but I dont think itll work out</color>
+28.04.2026 21:10 GitHub news.txt \n <color=#00FFFF>Submerged Is Out!</color> \n Enjoy!
