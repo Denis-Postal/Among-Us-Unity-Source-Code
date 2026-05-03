@@ -15,3 +15,4 @@ This is the source code for the game Among Us decompiled using Asset Ripper  Why
 <img width="1700" height="700" alt="image" src="https://github.com/user-attachments/assets/a709540e-5006-4602-b44b-f8cfbe445d3b" />
 
 
+<img width="1700" height="700" alt="image" src="https://github.com/user-attachments/assets/a76476a1-55f7-481c-83f5-2f25521bb218" />
